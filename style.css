@@ -22,6 +22,8 @@
     color: white;
     font-size:40px ;
     font-weight: 700;
+    letter-spacing: 2px;
+    margin: 0px;
 
 }
 
@@ -29,6 +31,8 @@
     color: white;
     font-size:28px ;
     font-weight: 700;
+    letter-spacing: 1.4px;
+    margin: 0px;
 
 }
 
@@ -86,6 +90,7 @@ img{
 }
 .svg20{
     width: 20px;
+    height: 20px;
 }
 
 .brandintro{
